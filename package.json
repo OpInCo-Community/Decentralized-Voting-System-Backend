@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/OpInCo-Community/Decentralized-Voting-System-Backend/issues"
   },
-  "homepage": "https://github.com/OpInCo-Community/Decentralized-Voting-System-Backend#readme"
+  "homepage": "https://github.com/OpInCo-Community/Decentralized-Voting-System-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
 }
