@@ -1,0 +1,1 @@
+// Adding the schema for poll.js
