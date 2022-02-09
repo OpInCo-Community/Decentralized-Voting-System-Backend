@@ -1,0 +1,1 @@
+// Getting the mongoose url from the environment variables
