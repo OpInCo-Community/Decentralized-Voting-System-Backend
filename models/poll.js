@@ -1,1 +1,1 @@
-// Adding the schema for poll.js
+// Adding the schema for a poll held by the application
