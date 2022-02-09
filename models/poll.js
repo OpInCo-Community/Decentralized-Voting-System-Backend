@@ -1,0 +1,1 @@
+// Adding the schema for a poll held by the application

@@ -1,0 +1,1 @@
+// Connect the database to the server through mongoose npm package
