@@ -18,10 +18,17 @@
   },
   "homepage": "https://github.com/OpInCo-Community/Decentralized-Voting-System-Backend#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.2",
-    "mongoose": "^6.2.1"
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "mongoose": "^6.2.1",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15",
+    "web3": "^1.7.0"
   }
 }
