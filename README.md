@@ -1,4 +1,4 @@
-# DecentralizedVoting-System-Backend
+# DecentralizedVotingSystem-Backend
 Backend of the Decentralized Voting System built over the ethereum blockchain to ensure open and secure election procedure.
 
 Backend will be built using Nodejs( Express.js to be precise ). It will involve routes for:
